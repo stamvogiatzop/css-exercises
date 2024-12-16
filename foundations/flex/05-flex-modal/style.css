@@ -22,7 +22,6 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   padding: 20px;
   display: flex;
-  flex-flow: row wrap;
   gap: 20px;
 }
 
@@ -35,8 +34,6 @@ body {
   height: 42px;
   border-radius: 50%;
   display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .close-button {
